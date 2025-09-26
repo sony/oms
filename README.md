@@ -1,5 +1,5 @@
 # OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent
-This directory provides a minimal, runnable artifact accompanying the paper.
+This repo provides a minimal, runnable artifact accompanying the paper.
 
 ## Overview
 This repository contains the official implementation of the LLM agent system described for ad keyword generation in the paper [**“OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent”**]((https://arxiv.org/abs/2507.02353)) accepted by EMNLP'25, Main Track, written by Bowen Chen, Zhao Wang, Shingo Takamatsu. ***OMS*** proposes a keyword generation framework that is On-the-fly (requires no training data, monitors online performance, and adapts accordingly), Multi-objective (employs agentic reasoning to optimize keywords based on multiple performance metrics), and Self-reflective (agentically evaluates keyword quality
