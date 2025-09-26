@@ -75,12 +75,12 @@ For any questions or issues, feel free to reach out: Zhao.Wang@sony.com or this 
 ## Cite
 If you use or reference ***TalkHier***, please cite us with the following BibTeX entry:
 ```bibtex
-@inproceedings{Wang_etal_2025_MIMO,
-  title     = {Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents},
-  author    = {Wang, Zhao and Chen, Bowen and Shimose, Yotaro and Moriyama, Sota and Wang, Heng and Takamatsu, Shingo},
+@misc{ChenWangTakamatsu_2025_OMS,
+  title        = {OMS: On-the-fly, Multi-Objective, Self-Reflective Ad Keyword Generation via LLM Agent},
+  author       = {Chen, Bowen and Wang, Zhao and Takamatsu, Shingo},
   booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   year      = {2025},
   publisher = {Association for Computational Linguistics},
-  url       = {https://arxiv.org/abs/2507.03326}
+  url          = {https://arxiv.org/abs/2507.02353}
 }
 ```
